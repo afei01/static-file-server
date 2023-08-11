@@ -1,0 +1,19 @@
+{
+  "name": "static-file-server",
+  "version": "1.0.0",
+  "description": "store file for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "file",
+    "server"
+  ],
+  "author": "chenfei",
+  "license": "MIT"
+}
