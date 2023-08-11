@@ -4,7 +4,9 @@
   "description": "store file for myself",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "dev": "nodemon index.js",
+    "start": "pm2 start index.js",
+    "test": "run test"
   },
   "repository": {
     "type": "git",
