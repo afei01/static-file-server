@@ -8,12 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "github"
+    "url": "https://github.com/afei01/static-file-server.git"
   },
   "keywords": [
     "file",
     "server"
   ],
   "author": "chenfei",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.9"
+  }
 }
